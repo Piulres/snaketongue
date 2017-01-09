@@ -1,5 +1,5 @@
 # Snaketongue
-Snaketongue System, developed to save time and speed up tasks.
+Snaketongue System, CMS system developed to save time and speed up tasks.
 
 ----
 ### Author
@@ -28,16 +28,9 @@ Uses a number of open source projects to work properly:
 ### Installation
 I hope you are familiar with [Xampp](https://www.apachefriends.org/pt_br/index.html) and the initial steps of the [Composer](https://scotch.io/tutorials/a-beginners-guide-to-composer) and [Laravel](http://www.darwinbiler.com/how-to-install-laravel-on-wamp-for-beginners/).
 
-
-```sh
-cd path/to/folder
-composer create-project laravel/laravel projectname
-
-```
-
 ----
 ### Demo [Offline]
-http://renan.zz.mu/laravel_crud/
+http://renan.zz.mu/snaketongue/
 
    [Piulres]: <https://github.com/Piulres/>
    [Composer]: <https://getcomposer.org/>
